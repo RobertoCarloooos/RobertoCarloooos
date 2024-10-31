@@ -4,9 +4,9 @@
     Soy un/a [desarrollador, estudiante.] concretamente en el desarrollo web FullStack y siempre estoy en busca de aprender y mejorar mis habilidades.
 - 🚀 Habilidades Técnicas
 
-  **Lenguajes**:  JavaScript, C++, HTML.
+  **Lenguajes**:  JavaScript, PHP,  C++, HTML.
 
-  **Frameworks**: React, Node.js, Angular.
+  **Frameworks**: React, Node.js, Angular, Symfony.
 
   **Bases de datos**: MySQL, MongoDB.
 
