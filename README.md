@@ -1,7 +1,7 @@
 - 👋 Hola,me llamo @RobertoCarloooos , robe para los amigos es un placer aterrizar en esta gran comunidad.
 -  🛠 Sobre mí
 
-    Soy un/a [desarrollador(a), estudiante.] concretamente en el desarrollo web FullStack y siempre estoy en busca de aprender y mejorar mis habilidades.
+    Soy un/a [desarrollador, estudiante.] concretamente en el desarrollo web FullStack y siempre estoy en busca de aprender y mejorar mis habilidades.
 - 🚀 Habilidades Técnicas
 
   **Lenguajes**:  JavaScript, C++, HTML.
