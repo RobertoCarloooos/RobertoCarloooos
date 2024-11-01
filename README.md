@@ -12,7 +12,7 @@
 
   **Herramientas**: Git, VSCode.
 - 💞️ Busco colaborar en cualquier proyecto o empresa con la principal intencion de crecer como programador,
-      asi que si tienes un hueco para mi no dudes con contactarme,crearemos juntos grandes ideas.
+      asi que si tienes un hueco para mi no dudes en contactarme,crearemos juntos grandes ideas.
 - 🔗 Encuéntrame en:
 
   📫 desarrollo171094@gmail.com
